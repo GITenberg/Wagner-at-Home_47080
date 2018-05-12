@@ -1,9 +1,13 @@
 _repo: Wagner-at-Home_47080
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Massie, Effie Dunreith
     gutenberg_agent_id: '44125'
     url: http://www.gutenberg.org/2009/agents/44125
+covers:
+- cover_type: archival
+  image_path: 47080-h/images/cover.jpg
 creator:
   author:
     agent_name: Gautier, Judith
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8006
     wikipedia: http://fr.wikipedia.org/wiki/Judith_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47080#Wagner-at-Home
 gutenberg_issued: '2014-10-09'
 gutenberg_type: Text
 identifiers:
